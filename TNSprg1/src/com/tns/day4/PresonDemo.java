@@ -17,6 +17,8 @@ public class PresonDemo {
 		obj.setCity(city);
 		obj.setAge(age);
 		System.out.println(obj);
+		System.out.println(obj);
+		
 		
 
 	}
